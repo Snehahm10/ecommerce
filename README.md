@@ -22,7 +22,6 @@ This project is a full-featured e-commerce web application built using the MERN 
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
-```bash
 git clone <repository-url>
 
 ### 2. Install Backend Dependencies
